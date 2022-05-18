@@ -5,3 +5,7 @@
 - VS Code
 - Live Server VS Code extension
 - Github account
+
+## public website
+
+https://blakehausner.github.io/hello_world/
