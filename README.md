@@ -9,3 +9,5 @@
 ## public website
 
 https://blakehausner.github.io/hello_world/
+
+## Update made on Blake's computer
